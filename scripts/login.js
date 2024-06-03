@@ -5,8 +5,7 @@ const btnLogin = document.getElementById('btn-submit');
 const inputUsername = document.getElementById("input-username");
 const inputPassword = document.getElementById("input-password");
 
-inputPassword.value = " ";
-inputUsername.value = " ";
+
 // function
 function validate(){
     let isValidate = true;
